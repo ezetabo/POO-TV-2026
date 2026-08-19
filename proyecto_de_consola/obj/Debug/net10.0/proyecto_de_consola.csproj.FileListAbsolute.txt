@@ -1,0 +1,14 @@
+C:\Users\Administrator\OneDrive\Escritorio\Primer_solucion\proyecto_de_consola\bin\Debug\net10.0\proyecto_de_consola.exe
+C:\Users\Administrator\OneDrive\Escritorio\Primer_solucion\proyecto_de_consola\bin\Debug\net10.0\proyecto_de_consola.deps.json
+C:\Users\Administrator\OneDrive\Escritorio\Primer_solucion\proyecto_de_consola\bin\Debug\net10.0\proyecto_de_consola.runtimeconfig.json
+C:\Users\Administrator\OneDrive\Escritorio\Primer_solucion\proyecto_de_consola\bin\Debug\net10.0\proyecto_de_consola.dll
+C:\Users\Administrator\OneDrive\Escritorio\Primer_solucion\proyecto_de_consola\bin\Debug\net10.0\proyecto_de_consola.pdb
+C:\Users\Administrator\OneDrive\Escritorio\Primer_solucion\proyecto_de_consola\obj\Debug\net10.0\proyecto_de_consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive\Escritorio\Primer_solucion\proyecto_de_consola\obj\Debug\net10.0\proyecto_de_consola.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive\Escritorio\Primer_solucion\proyecto_de_consola\obj\Debug\net10.0\proyecto_de_consola.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Escritorio\Primer_solucion\proyecto_de_consola\obj\Debug\net10.0\proyecto_de_consola.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Escritorio\Primer_solucion\proyecto_de_consola\obj\Debug\net10.0\proyecto_de_consola.dll
+C:\Users\Administrator\OneDrive\Escritorio\Primer_solucion\proyecto_de_consola\obj\Debug\net10.0\refint\proyecto_de_consola.dll
+C:\Users\Administrator\OneDrive\Escritorio\Primer_solucion\proyecto_de_consola\obj\Debug\net10.0\proyecto_de_consola.pdb
+C:\Users\Administrator\OneDrive\Escritorio\Primer_solucion\proyecto_de_consola\obj\Debug\net10.0\proyecto_de_consola.genruntimeconfig.cache
+C:\Users\Administrator\OneDrive\Escritorio\Primer_solucion\proyecto_de_consola\obj\Debug\net10.0\ref\proyecto_de_consola.dll

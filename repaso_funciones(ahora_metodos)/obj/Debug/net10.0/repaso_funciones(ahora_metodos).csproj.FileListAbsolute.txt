@@ -1,0 +1,14 @@
+C:\Users\Administrator\OneDrive\Escritorio\Primer_solucion\repaso_funciones(ahora_metodos)\bin\Debug\net10.0\repaso_funciones(ahora_metodos).exe
+C:\Users\Administrator\OneDrive\Escritorio\Primer_solucion\repaso_funciones(ahora_metodos)\bin\Debug\net10.0\repaso_funciones(ahora_metodos).deps.json
+C:\Users\Administrator\OneDrive\Escritorio\Primer_solucion\repaso_funciones(ahora_metodos)\bin\Debug\net10.0\repaso_funciones(ahora_metodos).runtimeconfig.json
+C:\Users\Administrator\OneDrive\Escritorio\Primer_solucion\repaso_funciones(ahora_metodos)\bin\Debug\net10.0\repaso_funciones(ahora_metodos).dll
+C:\Users\Administrator\OneDrive\Escritorio\Primer_solucion\repaso_funciones(ahora_metodos)\bin\Debug\net10.0\repaso_funciones(ahora_metodos).pdb
+C:\Users\Administrator\OneDrive\Escritorio\Primer_solucion\repaso_funciones(ahora_metodos)\obj\Debug\net10.0\repaso_funciones(ahora_metodos).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive\Escritorio\Primer_solucion\repaso_funciones(ahora_metodos)\obj\Debug\net10.0\repaso_funciones(ahora_metodos).AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive\Escritorio\Primer_solucion\repaso_funciones(ahora_metodos)\obj\Debug\net10.0\repaso_funciones(ahora_metodos).AssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Escritorio\Primer_solucion\repaso_funciones(ahora_metodos)\obj\Debug\net10.0\repaso_funciones(ahora_metodos).csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Escritorio\Primer_solucion\repaso_funciones(ahora_metodos)\obj\Debug\net10.0\repaso_funciones(ahora_metodos).dll
+C:\Users\Administrator\OneDrive\Escritorio\Primer_solucion\repaso_funciones(ahora_metodos)\obj\Debug\net10.0\refint\repaso_funciones(ahora_metodos).dll
+C:\Users\Administrator\OneDrive\Escritorio\Primer_solucion\repaso_funciones(ahora_metodos)\obj\Debug\net10.0\repaso_funciones(ahora_metodos).pdb
+C:\Users\Administrator\OneDrive\Escritorio\Primer_solucion\repaso_funciones(ahora_metodos)\obj\Debug\net10.0\repaso_funciones(ahora_metodos).genruntimeconfig.cache
+C:\Users\Administrator\OneDrive\Escritorio\Primer_solucion\repaso_funciones(ahora_metodos)\obj\Debug\net10.0\ref\repaso_funciones(ahora_metodos).dll
